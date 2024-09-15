@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python integrated with Power BI.
-- 
 
 <!---
 dumqp/dumqp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
